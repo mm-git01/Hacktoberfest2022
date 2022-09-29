@@ -12,7 +12,7 @@
 
 # Hacktoberfest 2022
 
-![Hacktoberfest 2020](HF2020Events.png)
+![Hacktoberfest 2022](HF2020Events.png)
 
 ## :wave:
 ## Welcome
