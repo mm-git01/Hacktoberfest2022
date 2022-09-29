@@ -19,7 +19,7 @@
 A guide to help you contribute to Hacktoberfest 2020 and to get you started towards Open Source Contribution 😉 
 ## How to contribute
 
-Check out our [Contributing Documentation](https://github.com/CMPN-CODECELL/Hacktoberfest2020/blob/main/CONTRIBUTING.md) 
+Check out our [Contributing Documentation](https://github.com/CMPN-CODECELL/Hacktoberfest2022/blob/main/CONTRIBUTING.md) 
 
 ## Guidelines
 
