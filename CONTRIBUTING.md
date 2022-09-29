@@ -1,5 +1,5 @@
 
-# Contributing to Hacktoberfest2021
+# Contributing to Hacktoberfest2022
 
 
 #### 1. Fork the repository to your personal GitHub account and create a new branch.
