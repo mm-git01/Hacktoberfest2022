@@ -10,20 +10,20 @@
 ![Forks](https://img.shields.io/github/forks/CMPN-CODECELL/Hacktoberfest2020?label=Fork&style=social)
 ![Watch](https://img.shields.io/github/watchers/CMPN-CODECELL/Hacktoberfest2020?label=Watch&style=social)
 
-# Hacktoberfest 2020
+# Hacktoberfest 2022
 
 ![Hacktoberfest 2020](HF2020Events.png)
 
 ## :wave:
 ## Welcome
-A guide to help you contribute to Hacktoberfest 2020 and to get you started towards Open Source Contribution 😉 
+A guide to help you contribute to Hacktoberfest 2022 and to get you started towards Open Source Contribution 😉 
 ## How to contribute
 
 Check out our [Contributing Documentation](https://github.com/CMPN-CODECELL/Hacktoberfest2022/blob/main/CONTRIBUTING.md) 
 
 ## Guidelines
 
-The first step is to register yourself on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/) using your Github account and sign up as a student.
+The first step is to register yourself on the [Hacktoberfest website](https://hacktoberfest.com/) using your Github account and sign up as a student.
 
 Find the open source repositories which interest and go try to pick up issues which you can solve.If you don't find one and think you can improve the codebase create a issue stating the problem you want to solve using the proper guidelines. Once the issue is assigned to you, code away till you resolve the issue :nerd_face: . Once you are done with the coding create a pull request by following the proper **CONTRIBUTING.md** file given in the repository. If the repository doesn't have one, make a pull request following the accepted rules in the open source community :hugs:
 
