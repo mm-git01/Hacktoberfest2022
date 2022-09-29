@@ -1,14 +1,14 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Open Source Helpers](https://www.codetriage.com/freecodecamp/freecodecamp/badges/users.svg)](https://www.codetriage.com/freecodecamp/freecodecamp)
-[![Updated Badge](https://badges.pufler.dev/updated/CMPN-CODECELL/Hacktoberfest2020?color=purple)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/CMPN-CODECELL/Hacktoberfest2020?color=red)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/CMPN-CODECELL/Hacktoberfest2020?color=blue)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/CMPN-CODECELL/Hacktoberfest2022?color=purple)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/CMPN-CODECELL/Hacktoberfest2022?color=red)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/CMPN-CODECELL/Hacktoberfest2022?color=blue)](https://badges.pufler.dev)
 <a href="https://github.com/CMPN-CODECELL/Hacktoberfest2020" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/badges/shields"></a>
 ![Follow](https://img.shields.io/github/followers/CMPN-CODECELL?label=Follow&style=social)
-![Forks](https://img.shields.io/github/forks/CMPN-CODECELL/Hacktoberfest2020?label=Fork&style=social)
-![Watch](https://img.shields.io/github/watchers/CMPN-CODECELL/Hacktoberfest2020?label=Watch&style=social)
+![Forks](https://img.shields.io/github/forks/CMPN-CODECELL/Hacktoberfest2022?label=Fork&style=social)
+![Watch](https://img.shields.io/github/watchers/CMPN-CODECELL/Hacktoberfest2022?label=Watch&style=social)
 
 # Hacktoberfest 2022
 
