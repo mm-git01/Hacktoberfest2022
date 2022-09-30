@@ -35,24 +35,14 @@ You have to make 4 pull requests on any valid repositories. Once you make the pu
 Make 4 valid Pull requests in the month of October to be elligible for a limited edition T-shirt or plant a tree :innocent:. The first 40,000 participants (maintainers and contributors) are elligible for the prizes
 
 
-## Hall of Fame 
-<!---
-[![](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/images/0)](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/links/0)
-[![](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/images/1)](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/links/1)
-[![](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/images/2)](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/links/2)
-[![](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/images/3)](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/links/3)
-[![](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/images/4)](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/links/4)
-[![](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/images/5)](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/links/5)
-[![](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/images/6)](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/links/6)
-[![](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/images/7)](https://sourcerer.io/fame/thewires2/CMPN-CODECELL/Hacktoberfest2020/links/7)
--->
-[![](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/images/0)](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/links/0)
-[![](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/images/1)](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/links/1)
-[![](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/images/2)](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/links/2)
-[![](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/images/3)](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/links/3)
-[![](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/images/4)](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/links/4)
-[![](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/images/5)](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/links/5)
-[![](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/images/6)](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/links/6)
-[![](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/images/7)](https://sourcerer.io/fame/AjayKhalsa/CMPN-CODECELL/Hacktoberfest2020/links/7)
-
 ### If this repository helped you in anyway, please leave a star :star: on our repository :blush:
+
+## Hall of Fame 
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://github.com/CMPN-CODECELL/Hacktoberfest2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CMPN-CODECELL/Hacktoberfest2022" />
+</a>
+
+
