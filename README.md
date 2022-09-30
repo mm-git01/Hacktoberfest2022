@@ -12,7 +12,7 @@
 
 # Hacktoberfest 2022
 
-![Hacktoberfest 2022](HF2020Events.png)
+![Hacktoberfest 2022](https://user-images.githubusercontent.com/65955929/193234985-68d0f084-1d7c-40d5-aeee-09959e44d69f.png)
 
 ## :wave:
 ## Welcome
