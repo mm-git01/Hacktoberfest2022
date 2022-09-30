@@ -1,6 +1,6 @@
 #### Projects
 
-Here you can submit your favourite Project, scripts, code snippets, web development project, Jupyter notebook :arrow_up:
+Here you can submit your favourite Projects, scripts, code snippets, web development project, Android or Cross platform applications, Jupyter notebook :arrow_up:
 
 Note:
 
